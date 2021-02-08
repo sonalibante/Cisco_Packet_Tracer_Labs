@@ -40,4 +40,3 @@ Accomplished Saving configuration on Cisco devices, configure IP addresses, Conf
 
 ![Screenshot (161)](https://user-images.githubusercontent.com/35185184/107191627-0beb5780-69b2-11eb-8820-204d3d276be9.png)
 
-
