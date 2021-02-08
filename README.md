@@ -7,6 +7,8 @@ The project made while working on connecting, and managing Cisco devices, basic 
 
 Practiced navigate the Cisco IOS using commands, shortcuts, and hotkeys.
 
+
+
 **Lab 2**
 
 This section covered understand the basics of IP addresses, configure them on different network devices, and test end-to-end connectivity between these devices
