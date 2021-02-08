@@ -9,7 +9,7 @@ Practiced navigate the Cisco IOS using commands, shortcuts, and hotkeys.
 
 **Lab 2**
 
-This section covered understand the basics of IP addresses, configure them on different network devices, and test end-to-end connectivity between these devices
+<legal>This section covered understand the basics of IP addresses, configure them on different network devices, and test end-to-end connectivity between these devices</legal>
 
 Accomplished Saving configuration on Cisco devices, configure IP addresses, Configuring virtual interfaces on Cisco switches and Testing network connectivity.
 
