@@ -1,5 +1,5 @@
 # Cisco_Packey_Tracer_Labs
-<legal>Just started working on advancing my networking skills by Computer Network Components, Accessing Cisco Devices, Cisco IOS Navigation and Basic Cisco Device Configuration
+<legal>Just started working on advancing my networking skills by Computer Network Components, Accessing Cisco Devices, Cisco IOS Navigation and Basic Cisco Device Configuration.
 
 **Lab 1**
 
